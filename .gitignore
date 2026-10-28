@@ -1,0 +1,14 @@
+build/
+CudaGaussianVoxelizer.egg-info/
+__pycache__/
+*.log
+CudaGaussianVoxelizer/*.so
+debug_gaussian2voxel/
+
+img/CUDA vs GaussTR: Backward Time per IterationFigure_1.png
+img/18000 Guassian: CUDA Gaussian Voxelization vs GaussTR Benchmark - Total Time per IterationFigure_1.png
+img/CUDA vs GaussTR: Forward Time per IterationFigure_1.png
+
+doc/CudaGaussianVoxelizer_equation.pdf
+
+CHANGELOG.md

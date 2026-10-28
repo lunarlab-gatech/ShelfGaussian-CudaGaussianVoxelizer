@@ -1,0 +1,19 @@
+--extra-index-url https://download.pytorch.org/whl/cu118
+
+# mmcv==2.1.0
+# mmdet==3.3.0
+# mmdet3d==1.4.0
+# mmengine==0.10.4
+# mmpretrain==1.2.0
+# mmsegmentation==1.2.2
+# numpy==1.26.4
+# openmim==0.3.9
+torch==2.1.2+cu118
+torchvision==0.16.2+cu118
+# timm
+# ftfy
+# regex
+# pybind11
+# setuptools
+# ninja
+# cmake
